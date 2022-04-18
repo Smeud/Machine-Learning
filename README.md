@@ -7,7 +7,7 @@ Exploration, analyse statistique, traitement et entrainement de modele sur des j
 - Breast cancer : https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+(Diagnostic)
 - Countries : https://www.kaggle.com/rohan0301/unsupervised-learning-on-country-data
 
-# Outils
+# Tools
 - Ubuntu 20.04
 - Noteboock 6.0.3
 - Scikit-learn
